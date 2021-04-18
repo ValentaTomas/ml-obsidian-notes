@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Loss function.md",
+            "file": "word2vec.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "bag-or",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Loss function.md",
+                "file": "word2vec.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,15 +96,15 @@
   },
   "active": "fc692520285776ec",
   "lastOpenFiles": [
-    "Loss function.md",
+    "word2vec.md",
+    "Gradient descend.md",
     "Neural Network.md",
+    "Loss function.md",
     "Sigmoid neuron.md",
     "Stochastic gradient descend.md",
-    "Gradient descend.md",
     "Natual Language Processing.md",
     "Word Embedding.md",
     "softmax.png",
-    "reLu.md",
-    "Deep learning.md"
+    "reLu.md"
   ]
 }
