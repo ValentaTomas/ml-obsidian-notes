@@ -1,0 +1,1 @@
+Model predicting the **context** using the given word.

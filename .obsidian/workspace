@@ -1,0 +1,109 @@
+{
+  "main": {
+    "id": "797d1ddcf8b40b95",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc692520285776ec",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Loss function.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0744a7a9c6d073ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "726e1dca13e5aad1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20d4484d7ff17b21",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "692c3994d49da5c5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ae2577f0967b02d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "3fe952c092a0d4f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a88df027fa79274",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Loss function.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "af5d4167b91527a2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "fc692520285776ec",
+  "lastOpenFiles": [
+    "Loss function.md",
+    "Neural Network.md",
+    "Sigmoid neuron.md",
+    "Stochastic gradient descend.md",
+    "Gradient descend.md",
+    "Natual Language Processing.md",
+    "Word Embedding.md",
+    "softmax.png",
+    "reLu.md",
+    "Deep learning.md"
+  ]
+}

@@ -1,0 +1,1 @@
+Attention is a technique that significantly boost results of [[Sequence to Sequence]] [[Deep learning]] models for [[Natual Language Processing]] tasks.

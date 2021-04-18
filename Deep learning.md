@@ -1,0 +1,2 @@
+Deep learning network has multiple layers, where each layer outputs are the next layer inputs.
+Usually, before the layers output is fed into the next layer input, an [[Activation Function]] is used on the output.

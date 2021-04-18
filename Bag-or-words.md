@@ -1,0 +1,1 @@
+Model predicting the **most likely word** in the given context. Words with a similar likelihood of appearance are considered similar.

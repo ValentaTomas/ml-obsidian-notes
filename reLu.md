@@ -1,0 +1,1 @@
+Activation function defined as `f(x) = max(0, x)`.
