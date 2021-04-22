@@ -1,4 +1,4 @@
-Analytically finding the minimum of a function with many variables is very difficult. We are using algorithms like gradient descend to find it incrementally.
+Analytically finding the minimum of a function with many variables is very difficult. We are using algorithms like gradient descent to find it incrementally.
 
 We are basically trying to reduce the [[Loss function]] `C` value at each step. That means that we want the `∆C = ∂C/∂v . ∆v` to be negative. The question is how to choose the `∆v` (`∆v` is defined as a transposed vector of all `v` changes - `(∆v#1, ∆v#2, ..., ∆v#n)^T`).
 

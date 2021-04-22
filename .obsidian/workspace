@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "word2vec.md",
+            "file": "Graphs/Graph.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bag-or",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "word2vec.md",
+                "file": "Graphs/Graph.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,19 +91,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "fc692520285776ec",
   "lastOpenFiles": [
-    "word2vec.md",
-    "Gradient descend.md",
-    "Neural Network.md",
-    "Loss function.md",
-    "Sigmoid neuron.md",
-    "Stochastic gradient descend.md",
+    "Graphs/Graph.md",
     "Natual Language Processing.md",
-    "Word Embedding.md",
-    "softmax.png",
-    "reLu.md"
+    "Sequence to Sequence.md",
+    "Softmax.md",
+    "Attention.md",
+    "Activation Function.md",
+    "Untitled.md",
+    "Neural Network.md",
+    "Gradient descend.md",
+    "Stochastic gradient descend.md"
   ]
 }
